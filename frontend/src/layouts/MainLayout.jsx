@@ -1,7 +1,4 @@
-import {
-  Box,
-  Toolbar,
-} from "@mui/material";
+import { Box, Toolbar } from "@mui/material";
 
 import Header from "../components/Header";
 import Sidebar from "../components/Sidebar";
@@ -24,8 +21,7 @@ const MainLayout = ({ children }) => {
           flexGrow: 1,
           p: 3,
           minWidth: 0,
-          backgroundColor:
-            "background.default",
+          backgroundColor: "background.blue",
         }}
       >
         <Toolbar />

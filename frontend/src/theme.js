@@ -10,6 +10,7 @@ const theme = createTheme({
     },
     background: {
       default: "#f5f5f5",
+      blue: "#2b4ba1",
     },
   },
 
