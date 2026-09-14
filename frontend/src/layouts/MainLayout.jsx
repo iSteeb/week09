@@ -21,7 +21,7 @@ const MainLayout = ({ children }) => {
           flexGrow: 1,
           p: 3,
           minWidth: 0,
-          backgroundColor: "background.blue",
+          backgroundColor: "background.default",
         }}
       >
         <Toolbar />
